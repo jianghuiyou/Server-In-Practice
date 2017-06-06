@@ -1,0 +1,1 @@
+gcc echo_server.c ../lib/MySocket.c -o echo_server
